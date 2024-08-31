@@ -1,2 +1,3 @@
-﻿  Main_P3.cpp
-  ConfigInicial.vcxproj -> D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\Repositorio_CGIHC\Práctica 1\ConfigInicial\Debug\ConfigInicial.exe
+﻿  Main_Modelado.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ConfigInicial.vcxproj -> D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\Debug\ConfigInicial.exe
