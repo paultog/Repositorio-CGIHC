@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Main_Modelado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\Main_Modelado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Main_P3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConfigInicial\\Main_P3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Modelado_Jerarquico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\Modelado_Jerarquico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +14,19 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main_P3.cpp",
-              "DocumentMoniker": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Main_P3.cpp",
-              "RelativeDocumentMoniker": "ConfigInicial\\Main_P3.cpp",
-              "ToolTip": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Main_P3.cpp",
-              "RelativeToolTip": "ConfigInicial\\Main_P3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-31T01:13:58.415Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main_Modelado.cpp",
-              "DocumentMoniker": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Main_Modelado.cpp",
-              "RelativeDocumentMoniker": "ConfigInicial\\Main_Modelado.cpp",
-              "ToolTip": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Main_Modelado.cpp",
-              "RelativeToolTip": "ConfigInicial\\Main_Modelado.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAvAAAA",
+              "Title": "Modelado_Jerarquico.cpp",
+              "DocumentMoniker": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Modelado_Jerarquico.cpp",
+              "RelativeDocumentMoniker": "ConfigInicial\\Modelado_Jerarquico.cpp",
+              "ToolTip": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Modelado_Jerarquico.cpp",
+              "RelativeToolTip": "ConfigInicial\\Modelado_Jerarquico.cpp",
+              "ViewState": "AQIAACwBAAAAAAAAAAAAABcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-31T01:08:27.074Z",
+              "WhenOpened": "2024-09-02T01:46:05.777Z",
               "EditorCaption": ""
             }
           ]
