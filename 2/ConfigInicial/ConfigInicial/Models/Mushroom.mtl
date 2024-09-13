@@ -1,0 +1,35 @@
+newmtl aiStandardSurface5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl aiStandardSurface6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Mushroom_UV_red.png
+Ni 1.00
+newmtl wood_bump:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Bark012_4K_Color.png
+bump  -bm 5 Bark012_4K_Displacement.png
+Ni 1.00
+newmtl wood_bump:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TreeEnd002_1K_Color.jpg
+bump  -bm 5 TreeEnd002_1K_Displacement.jpg
+Ni 1.00
