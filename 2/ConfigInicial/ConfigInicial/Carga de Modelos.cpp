@@ -1,6 +1,6 @@
-//Pr·ctica 5
-//V·zquez D·vila Paul
-//08/septiembre/2024
+//Pr√°ctica 5
+//V√°zquez D√°vila Paul
+//11/septiembre/2024
 //Grupo: 6
 
 // Std. Includes
@@ -146,7 +146,7 @@ int main( )
         glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
         dog.Draw(shader);
 
-        //                                          ¡rbol
+        //                                          √Årbol
         model = glm::translate(model, glm::vec3(3.0f, 0.0f, -2.0f));
         model = glm::scale(model, glm::vec3(0.3f,0.2f, 0.2f));
         glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
