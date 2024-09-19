@@ -1,9 +1,14 @@
-﻿  Carga de Modelos.cpp
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Carga de Modelos.cpp(118,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Carga de Modelos.cpp(244,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Carga de Modelos.cpp(245,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Carga de Modelos.cpp(249,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Carga de Modelos.cpp(250,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Carga de Modelos.cpp(252,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Carga de Modelos.cpp(253,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+﻿  Texturizado.cpp
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Texturizado.cpp(220,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Texturizado.cpp(320,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Texturizado.cpp(321,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Texturizado.cpp(325,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Texturizado.cpp(326,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Texturizado.cpp(328,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Texturizado.cpp(329,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_helper.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(SOIL2.obj)' or at ''; linking object as if no debug info
   ConfigInicial.vcxproj -> D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\Debug\ConfigInicial.exe
