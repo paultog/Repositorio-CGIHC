@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Texturizado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\Texturizado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Iluminacion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\Iluminacion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Shader\\lamp.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Shader\\lamp.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\Shader\\lamp.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Shader\\lighting.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\Shader\\lighting.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "lamp.vs",
-              "DocumentMoniker": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Shader\\lamp.vs",
-              "RelativeDocumentMoniker": "ConfigInicial\\Shader\\lamp.vs",
-              "ToolTip": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Shader\\lamp.vs",
-              "RelativeToolTip": "ConfigInicial\\Shader\\lamp.vs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-15T02:45:18.638Z",
-              "IsPinned": true
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -45,22 +36,48 @@
               "RelativeDocumentMoniker": "ConfigInicial\\Shader\\lamp.frag",
               "ToolTip": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Shader\\lamp.frag",
               "RelativeToolTip": "ConfigInicial\\Shader\\lamp.frag",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-15T02:45:20.697Z",
-              "IsPinned": true
+              "WhenOpened": "2024-09-30T02:47:31.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lamp.vs",
+              "DocumentMoniker": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Shader\\lamp.vs",
+              "RelativeDocumentMoniker": "ConfigInicial\\Shader\\lamp.vs",
+              "ToolTip": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Shader\\lamp.vs",
+              "RelativeToolTip": "ConfigInicial\\Shader\\lamp.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T02:32:30.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lighting.frag",
+              "DocumentMoniker": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Shader\\lighting.frag",
+              "RelativeDocumentMoniker": "ConfigInicial\\Shader\\lighting.frag",
+              "ToolTip": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Shader\\lighting.frag",
+              "RelativeToolTip": "ConfigInicial\\Shader\\lighting.frag",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-29T01:43:47.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Texturizado.cpp",
-              "DocumentMoniker": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Texturizado.cpp",
-              "RelativeDocumentMoniker": "ConfigInicial\\Texturizado.cpp",
-              "ToolTip": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Texturizado.cpp",
-              "RelativeToolTip": "ConfigInicial\\Texturizado.cpp",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Title": "Iluminacion.cpp",
+              "DocumentMoniker": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Iluminacion.cpp",
+              "RelativeDocumentMoniker": "ConfigInicial\\Iluminacion.cpp",
+              "ToolTip": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Iluminacion.cpp",
+              "RelativeToolTip": "ConfigInicial\\Iluminacion.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-15T02:24:26.835Z",
+              "WhenOpened": "2024-09-24T05:25:44.818Z",
               "EditorCaption": ""
             }
           ]
