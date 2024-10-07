@@ -2,6 +2,8 @@
 //Vázquez Dávila Paul
 //18/septiembre/2024
 //Grupo: 6
+
+
 // Std. Includes
 #include <string>
 
@@ -374,7 +376,7 @@ int main()
         //Fuente de luz 2 LUNA
 
         if (moveMoon) {
-            glm::mat4 modelLuna(1);
+            
 
             // Calcula la posición en el arco basado en moonRotate
             float radius = 30.0f;

@@ -1,14 +1,24 @@
-﻿  Iluminacion.cpp
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Iluminacion.cpp(225,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Iluminacion.cpp(522,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Iluminacion.cpp(523,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Iluminacion.cpp(527,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Iluminacion.cpp(528,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Iluminacion.cpp(530,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Iluminacion.cpp(531,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at ''; linking object as if no debug info
-soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_DXT.obj)' or at ''; linking object as if no debug info
-soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_helper.obj)' or at ''; linking object as if no debug info
-soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(SOIL2.obj)' or at ''; linking object as if no debug info
+﻿  fuentesDeLuz.cpp
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(233,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(275,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(275,20): warning C4244:         with
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(275,20): warning C4244:         [
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(275,20): warning C4244:             T=float
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(275,20): warning C4244:         ]
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(276,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(276,20): warning C4244:         with
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(276,20): warning C4244:         [
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(276,20): warning C4244:             T=float
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(276,20): warning C4244:         ]
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(277,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(277,20): warning C4244:         with
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(277,20): warning C4244:         [
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(277,20): warning C4244:             T=float
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(277,20): warning C4244:         ]
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(778,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(779,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(783,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(784,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(786,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\fuentesDeLuz.cpp(787,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
   ConfigInicial.vcxproj -> D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\Debug\ConfigInicial.exe
