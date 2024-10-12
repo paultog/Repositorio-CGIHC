@@ -1,7 +1,11 @@
+//Pr√°ctica 9 
+//V√°zquez D√°vila Paul
+//13/octubre/2024
+//Grupo: 6
 
 
-//AnimaciÛn de movimientos de modelos en forma circular, el perro y la pelota en sentido contrario.
-//Al momento de que el perro encuentre la pelota, este la va a golpear y la pelota va a simular un movimiento parabÛlico, subiendo y bajando hasta volver a encontrarse con el perro. Esta animaciÛn ser· cÌclica.
+//Animaci√≥n de movimientos de modelos en forma circular, el perro y la pelota en sentido contrario.
+//Al momento de que el perro encuentre la pelota, este la va a golpear y la pelota va a simular un movimiento parab√≥lico, subiendo y bajando hasta volver a encontrarse con el perro. Esta animaci√≥n ser√° c√≠clica.
 #include <iostream>
 #include <cmath>
 
@@ -106,15 +110,15 @@ glm::vec3 Light1 = glm::vec3(0);
 //Anim
 float rotBall = 0;
 bool AnimBall, AnimBall2 = false;
-float AscDesc = 0; // Variable para controlar la traslaciÛn en y para la pelota.
-float jumpDog = 0; // Variable para controlar la traslaciÛn en y para el perro.
+float AscDesc = 0; // Variable para controlar la traslaci√≥n en y para la pelota.
+float jumpDog = 0; // Variable para controlar la traslaci√≥n en y para el perro.
 
-float rotDog = 0; // rotaciÛn del perro.
-bool AnimDog = false; //activar la animaciÛn del perro.
+float rotDog = 0; // rotaci√≥n del perro.
+bool AnimDog = false; //activar la animaci√≥n del perro.
 
 float radius = 1.0f;    // Radio de la trayectoria circular
 float angle = 0.0f;
-float dogAngle = 0.0f;     // ¡ngulo inicial
+float dogAngle = 0.0f;     // √Ångulo inicial
 float speedBall = 40.0f;     // Velocidad angular (puedes ajustarla)
 float speedDog = 40.0f;
 
@@ -323,10 +327,10 @@ int main()
 		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
 		//glBindVertexArray(0);
 		//////////////////////////////////////////////////////////////////////////////////////
-		// Calcular la nueva posiciÛn en la trayectoria circular
+		// Calcular la nueva posici√≥n en la trayectoria circular
 		
 		model = glm::mat4(1);
-		// Aplica la traslaciÛn y la rotaciÛn
+		// Aplica la traslaci√≥n y la rotaci√≥n
 		model = glm::translate(modelTemp, glm::vec3(0.0f, 1.5f, 0.0f));
 		model = glm::translate(model, glm::vec3(posX, AscDesc, posZ)); // Usar las nuevas coordenadas
 		model = glm::rotate(model, glm::radians(rotBall), glm::vec3(0.0f, 1.0f, 0.0f));
@@ -491,17 +495,17 @@ int directionBall = -1;
 
 //void Animation() {
 //	if (AnimBall) {
-//		// Cambiar AscDesc dependiendo de la direcciÛn
+//		// Cambiar AscDesc dependiendo de la direcci√≥n
 //		AscDesc += 0.1f * direction;
 //		printf("%f", AscDesc);
 //
-//		// Verificar lÌmites y cambiar direcciÛn
+//		// Verificar l√≠mites y cambiar direcci√≥n
 //		if (AscDesc >= 1.9f) {
-//			AscDesc = 1.9f; // No exceder el lÌmite superior
+//			AscDesc = 1.9f; // No exceder el l√≠mite superior
 //			direction = -1; // Cambiar a disminuir
 //		}
 //		else if (AscDesc <= 0.0f) {
-//			AscDesc = 0.0f; // No caer por debajo del lÌmite inferior
+//			AscDesc = 0.0f; // No caer por debajo del l√≠mite inferior
 //			direction = 1; // Cambiar a aumentar
 //		}
 //	}
@@ -514,20 +518,20 @@ int directionBall = -1;
 
 //void Animation() {
 //	if (AnimBall) {
-//		// Cambiar AscDesc dependiendo de la direcciÛn
+//		// Cambiar AscDesc dependiendo de la direcci√≥n
 //		AscDesc += 0.0001f * direction;
 //
 //		if (AscDesc >= 1.9f) {
-//			AscDesc = 1.9f; // Fijar el valor m·ximo
+//			AscDesc = 1.9f; // Fijar el valor m√°ximo
 //			direction = -1; // Cambiar a disminuir
 //		}
 //		else if (AscDesc <= 0.0f) {
-//			AscDesc = 0.0f; // Fijar el valor mÌnimo
+//			AscDesc = 0.0f; // Fijar el valor m√≠nimo
 //			direction = 1; // Cambiar a aumentar
 //		}
 //
-//		// Rotar el modelo seg˙n rotBall
-//		rotBall += 0.09f; // Ajusta la velocidad de rotaciÛn
+//		// Rotar el modelo seg√∫n rotBall
+//		rotBall += 0.09f; // Ajusta la velocidad de rotaci√≥n
 //		if (rotBall >= 360.0f) {
 //			rotBall -= 360.0f; 
 //		}
@@ -558,17 +562,17 @@ void Animation() {
 	}
 
 	if (AnimBall) { 
-		// Actualizar el ·ngulo basado en la velocidad 
+		// Actualizar el √°ngulo basado en la velocidad 
 		dogAngle += speedDog * deltaTime; // `deltaTime` puede ser el tiempo entre fotogramas
 		printf("%f  ", dogAngle);
 	}
 
 	if (AnimBall and AnimBall2) {
-		// Cambiar AscDesc dependiendo de la direcciÛn
+		// Cambiar AscDesc dependiendo de la direcci√≥n
 		AscDesc += 0.0008f * directionBall;
 		//printf("%f", AscDesc);
 		
-		// Verificar lÌmites y cambiar direcciÛn
+		// Verificar l√≠mites y cambiar direcci√≥n
 		if (AscDesc >= 0.0f) {
 			AscDesc = 0.0f; 
 			directionBall = -1; 
@@ -592,16 +596,16 @@ void Animation() {
 
 
 	if (AnimBall and AnimDog) {
-		// Cambiar AscDesc dependiendo de la direcciÛn
+		// Cambiar AscDesc dependiendo de la direcci√≥n
 		jumpDog += 0.0008f * direction;
 		
-		// Verificar lÌmites y cambiar direcciÛn
+		// Verificar l√≠mites y cambiar direcci√≥n
 		if (jumpDog>= 0.8f) {
-			jumpDog = 0.8f; // No exceder el lÌmite superior
+			jumpDog = 0.8f; // No exceder el l√≠mite superior
 			direction = -1; // Cambiar a disminuir
 		}
 		else if (jumpDog <= 0.0f) {
-			jumpDog = 0.0f; // No caer por debajo del lÌmite inferior
+			jumpDog = 0.0f; // No caer por debajo del l√≠mite inferior
 			direction = 1; // Cambiar a aumentar
 		}
 	}
