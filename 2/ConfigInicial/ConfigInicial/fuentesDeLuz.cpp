@@ -452,8 +452,8 @@ int main()
 		model = glm::scale(model, glm::vec3(0.9f)); // Make it a smaller cube
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glBindVertexArray(VAO);
-		Bulb.Draw(lampShader);
-		//glDrawArrays(GL_TRIANGLES, 0, 36);
+		Bulb.Draw(lightingShader);
+		glDrawArrays(GL_TRIANGLES, 0, 36);
 		
 
 		/// Model 2
@@ -462,7 +462,7 @@ int main()
 		model = glm::scale(model, glm::vec3(0.6f)); // Make it a smaller cube
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glBindVertexArray(VAO);
-		Cat.Draw(lampShader);
+		Cat.Draw(lightingShader);
 		
 		/// Model 3
 		model = glm::mat4(1);
@@ -471,7 +471,7 @@ int main()
 		model = glm::scale(model, glm::vec3(0.9f)); // Make it a smaller cube
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glBindVertexArray(VAO);
-		Wlamp.Draw(lampShader);
+		Wlamp.Draw(lightingShader);
 
 		/// Model 4
 		model = glm::mat4(1);
@@ -480,8 +480,8 @@ int main()
 		model = glm::scale(model, glm::vec3(7.0f)); // Make it a smaller cube
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glBindVertexArray(VAO);
-		Atlas.Draw(lampShader);
-			
+		Atlas.Draw(lightingShader);
+		glDrawArrays(GL_TRIANGLES, 0, 36);
 
 
 
