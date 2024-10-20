@@ -46,8 +46,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Animación_Básica.cpp">
-      <Filter>Source Files\Resource Files</Filter>
+    <ClCompile Include="Maquina de estados.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,24 +1,30 @@
-﻿  Animación_Básica.cpp
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(209,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(245,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(245,20): warning C4244:         with
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(245,20): warning C4244:         [
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(245,20): warning C4244:             T=float
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(245,20): warning C4244:         ]
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(246,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(246,20): warning C4244:         with
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(246,20): warning C4244:         [
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(246,20): warning C4244:             T=float
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(246,20): warning C4244:         ]
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(247,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(247,20): warning C4244:         with
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(247,20): warning C4244:         [
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(247,20): warning C4244:             T=float
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(247,20): warning C4244:         ]
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(631,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(632,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(636,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(637,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(639,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Animación_Básica.cpp(640,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+﻿  Maquina de estados.cpp
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(213,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(253,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(253,20): warning C4244:         with
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(253,20): warning C4244:         [
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(253,20): warning C4244:             T=float
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(253,20): warning C4244:         ]
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(254,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(254,20): warning C4244:         with
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(254,20): warning C4244:         [
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(254,20): warning C4244:             T=float
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(254,20): warning C4244:         ]
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(255,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(255,20): warning C4244:         with
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(255,20): warning C4244:         [
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(255,20): warning C4244:             T=float
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(255,20): warning C4244:         ]
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(590,22): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(617,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(618,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(622,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(623,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(625,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\Maquina de estados.cpp(626,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_helper.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(SOIL2.obj)' or at ''; linking object as if no debug info
   ConfigInicial.vcxproj -> D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\Debug\ConfigInicial.exe

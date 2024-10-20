@@ -1,3 +1,7 @@
+//Práctica 9 
+//Vázquez Dávila Paul
+//13/octubre/2024
+//Grupo: 6
 
 
 //Animación de movimientos de modelos en forma circular, el perro y la pelota en sentido contrario.
