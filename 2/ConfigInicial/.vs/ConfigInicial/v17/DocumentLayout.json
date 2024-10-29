@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Maquina de estados.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\Maquina de estados.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\KeyFrames.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{253D038B-C7E4-4176-AD7E-7D640894B06D}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\KeyFrames.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,23 +26,19 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Maquina de estados.cpp",
-              "DocumentMoniker": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Maquina de estados.cpp",
-              "RelativeDocumentMoniker": "ConfigInicial\\Maquina de estados.cpp",
-              "ToolTip": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\Maquina de estados.cpp",
-              "RelativeToolTip": "ConfigInicial\\Maquina de estados.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Title": "KeyFrames.cpp",
+              "DocumentMoniker": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\KeyFrames.cpp",
+              "RelativeDocumentMoniker": "ConfigInicial\\KeyFrames.cpp",
+              "ToolTip": "D:\\Semestre 2025-1\\Computaci\u00F3n gr\u00E1fica\\Lab. Computaci\u00F3n gr\u00E1fica\\CGIHC\\2\\ConfigInicial\\ConfigInicial\\KeyFrames.cpp",
+              "RelativeToolTip": "ConfigInicial\\KeyFrames.cpp",
+              "ViewState": "AQIAADIBAAAAAAAAAAAAAD4BAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T15:32:38.238Z",
+              "WhenOpened": "2024-10-23T00:15:48.954Z",
               "EditorCaption": ""
             }
           ]
