@@ -1,37 +1,31 @@
 ﻿  KeyFrames.cpp
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(433,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(473,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(473,20): warning C4244:         with
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(473,20): warning C4244:         [
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(473,20): warning C4244:             T=float
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(473,20): warning C4244:         ]
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(474,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(474,20): warning C4244:         with
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(474,20): warning C4244:         [
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(474,20): warning C4244:             T=float
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(474,20): warning C4244:         ]
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(475,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(475,20): warning C4244:         with
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(475,20): warning C4244:         [
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(475,20): warning C4244:             T=float
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(475,20): warning C4244:         ]
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(403,18): warning C4101: 'EBO': unreferenced local variable
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(664,23): warning C4305: '-=': truncation from 'double' to 'float'
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(761,14): warning C4305: '+=': truncation from 'double' to 'float'
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(766,14): warning C4305: '-=': truncation from 'double' to 'float'
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(771,14): warning C4305: '-=': truncation from 'double' to 'float'
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(776,14): warning C4305: '+=': truncation from 'double' to 'float'
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(781,14): warning C4305: '-=': truncation from 'double' to 'float'
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(786,14): warning C4305: '+=': truncation from 'double' to 'float'
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(962,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(963,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(967,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(968,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(970,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(971,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at ''; linking object as if no debug info
-soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_DXT.obj)' or at ''; linking object as if no debug info
-soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_helper.obj)' or at ''; linking object as if no debug info
-soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(SOIL2.obj)' or at ''; linking object as if no debug info
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(522,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(562,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(562,20): warning C4244:         with
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(562,20): warning C4244:         [
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(562,20): warning C4244:             T=float
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(562,20): warning C4244:         ]
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(563,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(563,20): warning C4244:         with
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(563,20): warning C4244:         [
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(563,20): warning C4244:             T=float
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(563,20): warning C4244:         ]
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(564,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(564,20): warning C4244:         with
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(564,20): warning C4244:         [
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(564,20): warning C4244:             T=float
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(564,20): warning C4244:         ]
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(770,23): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(867,14): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(872,14): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(877,14): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(882,14): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(887,14): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(892,14): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(1068,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(1069,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(1073,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(1074,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(1076,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\ConfigInicial\KeyFrames.cpp(1077,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
   ConfigInicial.vcxproj -> D:\Semestre 2025-1\Computación gráfica\Lab. Computación gráfica\CGIHC\2\ConfigInicial\Debug\ConfigInicial.exe
