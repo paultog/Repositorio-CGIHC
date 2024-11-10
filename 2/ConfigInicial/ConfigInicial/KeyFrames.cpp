@@ -1,6 +1,6 @@
-﻿//Práctica 11
+﻿//Práctica 11 / Actividad adicional (skybox)
 //Vázquez Dávila Paul
-//Fecha de entrega 29/octubre/2024
+//Fecha de entrega 09/noviembre/2024
 //Grupo: 6
 // 
 //El perro debe dar una vuelta, después echarse/sentarse y al final dar la pata.
